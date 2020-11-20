@@ -23,7 +23,7 @@ Fore more details of our findings, please refer to our **report** [here](https:/
 - Prophet for time-Series forecasting 
 
 ## Project Members
-Dean Huang:[@DeanHuang-Git](https://github.com/DeanHuang-Git)   <br />
+Dean Huang: [@DeanHuang-Git](https://github.com/DeanHuang-Git)   <br />
 Leon Zhang: [@leonz12345](https://github.com/leonz12345)   <br />
 Michael Tang: [@MTang0728](https://github.com/MTang0728)   <br />
 Tommy Tseng: [@TommyTseng1129](https://github.com/TommyTseng1129)   <br />
