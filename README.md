@@ -1,4 +1,4 @@
-# Duke Datathon 2020 Winner Submission
+# 2020 Duke Datathon Winner Submission
 
 ## About
 [Competition Details](https://dukeml.org/datathon/)
