@@ -12,7 +12,7 @@ With the continuous outbreak of COVID-19 around the world, many health experts b
 
 Please find the **problem statement** of this competition [here](https://github.com/MTang0728/Duke_Datathon_2020/blob/master/Documents/2020_Duke_Datathon_Problem_Statement.pdf).
 
-Fore more details of our findings, please refer to our **report** [here](https://github.com/MTang0728/Duke_Datathon_2020/blob/master/Documents/Datathon%20Final%20Report.pdf).
+For more details of our findings, please refer to our **report** [here](https://github.com/MTang0728/Duke_Datathon_2020/blob/master/Documents/Datathon%20Final%20Report.pdf).
 
 -- **Project Status: [Completed]**  <br />
 -- **Competition Status: [Winner]**
